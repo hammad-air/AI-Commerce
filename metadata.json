@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Commerce",
+  "description": "A full-featured E-Commerce storefront and admin dashboard built with React, TypeScript, and Tailwind CSS, powered by a mock API to simulate backend interactions for product and order management.",
+  "requestFramePermissions": []
+}
